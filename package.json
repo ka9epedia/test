@@ -1,0 +1,30 @@
+{
+  "name": "okayamaRouting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pgRouting"
+  ],
+  "author": "odalab",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.1",
+    "body-parser": "^1.18.3",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.3",
+    "gulp": "^3.9.1",
+    "gulp-pug": "^4.0.1",
+    "leaflet-routing-machine": "^3.2.11",
+    "morgan": "^1.9.1",
+    "pg": "^7.4.3",
+    "pug": "^2.0.3",
+    "python-shell": "^1.0.7",
+    "serve-favicon": "^2.5.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

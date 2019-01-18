@@ -1,0 +1,147 @@
+@base <http://www.city.okayama.jp/kikaku/jouhou/jouhou_t00060.html/lodc-okayama2018/okayama/ra-men#> .
+@prefix bp: <http://www.city.okayama.jp/kikaku/jouhou/jouhou_t00060.html/lodc-okayama2018/okayama/ra-men/property/> . 
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+
+<> cc:attributionName "OUS_odalab" ;
+   cc:license <http://creativecommons.org/publicdomain/zero/1.0/deed.ja> .
+<1>  rdfs:label "麺場 セフレ 田所商店 岡山庭瀬店"@ja ;
+ bp:郵便番号 "701-0153" ;
+ bp:住所 "岡山県岡山市北区庭瀬522-1" ;
+ bp:電話番号 "086-292-1118" ;
+ geo:lat "34.6459024"^^xsd:double ;
+  geo:long "133.8471346"^^xsd:double .
+
+<2>  rdfs:label "天下一品 岡山大供店"@ja ;
+ bp:郵便番号 "700-0911" ;
+ bp:住所 "岡山県岡山市北区大供本町473-1" ;
+ bp:電話番号 "086-222-8101" ;
+ geo:lat "34.6530984"^^xsd:double ;
+  geo:long "133.9121667"^^xsd:double .
+
+<3>  rdfs:label "長崎ちゃんめん上伊福店"@ja ;
+ bp:郵便番号 "700-0013" ;
+ bp:住所 "岡山県岡山市北区伊福町4丁目4" ;
+ bp:電話番号 "086-255-1856" ;
+ geo:lat "34.6718072"^^xsd:double ;
+  geo:long "133.9110718"^^xsd:double .
+
+<4>  rdfs:label "風風ラーメン岡山北店"@ja ;
+ bp:郵便番号 "700-0975" ;
+ bp:住所 "岡山県岡山市北区今2-8-9" ;
+ bp:電話番号 "086-236-6690" ;
+ geo:lat "34.6469042"^^xsd:double ;
+  geo:long "133.8977992"^^xsd:double .
+
+<5>  rdfs:label "陣山ラーメン"@ja ;
+ bp:郵便番号 "700-0024" ;
+ bp:住所 "岡山県岡山市北区駅元町1-1" ;
+ bp:電話番号 "086-226-6116" ;
+ geo:lat "34.6650443"^^xsd:double ;
+  geo:long "133.9175963"^^xsd:double .
+
+<6>  rdfs:label "ラーメンはなふさ"@ja ;
+ bp:郵便番号 "700-0024" ;
+ bp:住所 "岡山県岡山市北区駅元町28-2 ブランシェ駅元町1F" ;
+ bp:電話番号 "086-255-3355" ;
+ geo:lat "34.6677711"^^xsd:double ;
+  geo:long "133.915786"^^xsd:double .
+
+<7>  rdfs:label "花ざかり (野田店)"@ja ;
+ bp:郵便番号 "700-0971" ;
+ bp:住所 "岡山県岡山市北区野田3-8-11" ;
+ bp:電話番号 "086-230-6655" ;
+ geo:lat "34.6507927"^^xsd:double ;
+  geo:long "133.8994183"^^xsd:double .
+
+<8>  rdfs:label "隠岐の島ラーメン"@ja ;
+ bp:郵便番号 "700-0901" ;
+ bp:住所 "岡山県岡山市北区本町2-23" ;
+ bp:電話番号 "086-227-0050" ;
+ geo:lat "34.6650615"^^xsd:double ;
+  geo:long "133.9211753"^^xsd:double .
+
+<9>  rdfs:label "本格中華料理 友家"@ja ;
+ bp:郵便番号 "701-0145" ;
+ bp:住所 "岡山県岡山市北区今保101-1" ;
+ bp:電話番号 "086-242-5035" ;
+ geo:lat "34.6422841"^^xsd:double ;
+  geo:long "133.8703521"^^xsd:double .
+
+<10>  rdfs:label "ラーメン 味将軍"@ja ;
+ bp:郵便番号 "700-0023" ;
+ bp:住所 "岡山県岡山市北区駅前町1-6-23" ;
+ bp:電話番号 "086-234-8814" ;
+ geo:lat "34.6666748"^^xsd:double ;
+  geo:long "133.9207792"^^xsd:double .
+
+<11>  rdfs:label "豚肉麺 高はし"@ja ;
+ bp:郵便番号 "700-0022" ;
+ bp:住所 "岡山県岡山市北区岩田町7-12" ;
+ geo:lat "34.6690051"^^xsd:double ;
+  geo:long "133.9216095"^^xsd:double .
+
+<12>  rdfs:label "海老そば 三十郎"@ja ;
+ bp:郵便番号 "700-0022" ;
+ bp:住所 "岡山県岡山市北区岩田町7-12" ;
+ bp:電話番号 "086-221-3106" ;
+ geo:lat "34.6690051"^^xsd:double ;
+  geo:long "133.9216095"^^xsd:double .
+
+<13>  rdfs:label "中華料理 福源楼"@ja ;
+ bp:郵便番号 "701-1351" ;
+ bp:住所 "岡山県岡山市北区門前384-1" ;
+ bp:電話番号 "086-289-6375" ;
+ geo:lat "34.6938972"^^xsd:double ;
+  geo:long "133.8088843"^^xsd:double .
+
+<14>  rdfs:label "らーめん巳"@ja ;
+ bp:郵便番号 "700-0836" ;
+ bp:住所 "岡山県岡山市北区中央町8-12" ;
+ bp:電話番号 "090-6832-1688" ;
+ geo:lat "34.6565373"^^xsd:double ;
+  geo:long "133.9258067"^^xsd:double .
+
+<15>  rdfs:label "中華そば 鶴将"@ja ;
+ bp:郵便番号 "700-0822" ;
+ bp:住所 "岡山県岡山市北区表町3-13-38" ;
+ bp:電話番号 "086-234-8045" ;
+ geo:lat "34.6569207"^^xsd:double ;
+  geo:long "133.9284703"^^xsd:double .
+
+<16>  rdfs:label "あまい からい"@ja ;
+ bp:郵便番号 "700-0023" ;
+ bp:住所 "岡山県岡山市北区駅前町2-2-1" ;
+ bp:電話番号 "086-225-6927" ;
+ geo:lat "34.668214"^^xsd:double ;
+  geo:long "133.919979"^^xsd:double .
+
+<17>  rdfs:label "成田家 (津島店)"@ja ;
+ bp:郵便番号 "700-0083" ;
+ bp:住所 "岡山県岡山市北区津島新野1-1-7" ;
+ bp:電話番号 "086-253-3366" ;
+ geo:lat "34.681715"^^xsd:double ;
+  geo:long "133.917782"^^xsd:double .
+
+<18>  rdfs:label "華光軒"@ja ;
+ bp:郵便番号 "700-0023" ;
+ bp:住所 "岡山県岡山市北区駅前町1-1-11" ;
+ bp:電話番号 "086-222-8239" ;
+ geo:lat "34.666061"^^xsd:double ;
+  geo:long "133.920396"^^xsd:double .
+
+<19>  rdfs:label "中華そば 花ざかり (大野辻店)"@ja ;
+ bp:郵便番号 "700-0975" ;
+ bp:住所 "岡山県岡山市北区今1-12-28" ;
+ bp:電話番号 "086-230-6655" ;
+ geo:lat "34.650381"^^xsd:double ;
+  geo:long "133.891916"^^xsd:double .
+
+<20>  rdfs:label "中華そば専門店 広松"@ja ;
+ bp:郵便番号 "700-0921" ;
+ bp:住所 "岡山県岡山市北区東古松3-357-2" ;
+ bp:電話番号 "086-226-0753" ;
+ geo:lat "34.642397"^^xsd:double ;
+  geo:long "133.915533"^^xsd:double .

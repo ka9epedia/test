@@ -1,0 +1,366 @@
+@base <http://www.city.okayama.jp/kikaku/jouhou/jouhou_t00060.html/lodc-okayama2018/okayama/restaurant#> .
+@prefix bp: <http://www.city.okayama.jp/kikaku/jouhou/jouhou_t00060.html/lodc-okayama2018/okayama/restaurant/property/> . 
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+
+<> cc:attributionName "OUS_odalab" ;
+   cc:license <http://creativecommons.org/licenses/by/4.0/deed.ja> .
+<1>  rdfs:label "びっくりドンキー 青江店"@ja ;
+ bp:郵便番号 "700-0941" ;
+ bp:住所 "岡山県岡山市北区青江1-21-12" ;
+ bp:電話番号 "086-225-8105" ;
+ geo:lat "34.632725"^^xsd:double ;
+  geo:long "133.918121"^^xsd:double .
+
+<2>  rdfs:label "ガスト 岡山野殿店"@ja ;
+ bp:郵便番号 "700-0065" ;
+ bp:住所 "岡山県岡山市北区野殿東町1-43" ;
+ bp:電話番号 "086-214-3375" ;
+ geo:lat "34.658405"^^xsd:double ;
+  geo:long "133.883179"^^xsd:double .
+
+<3>  rdfs:label "ジョイフル 岡山北長瀬店"@ja ;
+ bp:郵便番号 "700-0962" ;
+ bp:住所 "岡山県岡山市北区北長瀬表町1丁目2番15号" ;
+ bp:電話番号 "086-805-2556" ;
+ geo:lat "34.65202"^^xsd:double ;
+  geo:long "133.893524"^^xsd:double .
+
+<4>  rdfs:label "株式会社松平商科大学売店"@ja ;
+ bp:郵便番号 "700-0087" ;
+ bp:住所 "岡山県岡山市北区津島京町2-10-1" ;
+ bp:電話番号 "086-254-8854" ;
+ geo:lat "34.683128"^^xsd:double ;
+  geo:long "133.90094"^^xsd:double .
+
+<5>  rdfs:label "からあげ縁天満屋岡山店"@ja ;
+ bp:郵便番号 "700-0822" ;
+ bp:住所 "岡山県岡山市北区表町2-1-1" ;
+ bp:電話番号 "086-233-1788" ;
+ geo:lat "34.661469"^^xsd:double ;
+  geo:long "133.92894"^^xsd:double .
+
+<6>  rdfs:label "鎌倉パスタ岡山県青江店"@ja ;
+ bp:郵便番号 "700-0941" ;
+ bp:住所 "岡山県岡山市北区青江1-12-10" ;
+ bp:電話番号 "086-801-2309" ;
+ geo:lat "34.634983"^^xsd:double ;
+  geo:long "133.920349"^^xsd:double .
+
+<7>  rdfs:label "かこ"@ja ;
+ bp:郵便番号 "700-0904" ;
+ bp:住所 "岡山県岡山市北区柳町1-5-14" ;
+ bp:電話番号 "086-224-0066" ;
+ geo:lat "34.659691"^^xsd:double ;
+  geo:long "133.921677"^^xsd:double .
+
+<8>  rdfs:label "ガスト 岡山下中野店"@ja ;
+ bp:郵便番号 "700-0973" ;
+ bp:住所 "岡山県岡山市北区下中野466-3" ;
+ bp:電話番号 "086-246-8709" ;
+ geo:lat "34.636223"^^xsd:double ;
+  geo:long "133.901947"^^xsd:double .
+
+<9>  rdfs:label "ガスト 岡山学南町店"@ja ;
+ bp:郵便番号 "700-0011" ;
+ bp:住所 "岡山県岡山市北区学南町2-205-1" ;
+ bp:電話番号 "086-214-6603" ;
+ geo:lat "34.682945"^^xsd:double ;
+  geo:long "133.921631"^^xsd:double .
+
+<10>  rdfs:label "ガスト 岡山十日市店"@ja ;
+ bp:郵便番号 "700-0933" ;
+ bp:住所 "岡山県岡山市北区奥田2-4-29" ;
+ bp:電話番号 "086-234-6105" ;
+ geo:lat "34.642986"^^xsd:double ;
+  geo:long "133.923721"^^xsd:double .
+
+<11>  rdfs:label "サイゼリヤ 岡山富田店"@ja ;
+ bp:郵便番号 "700-0936" ;
+ bp:住所 "岡山県岡山市北区富田516-13" ;
+ bp:電話番号 "086-801-7786" ;
+ geo:lat "34.637657"^^xsd:double ;
+  geo:long "133.920029"^^xsd:double .
+
+<12>  rdfs:label "サイゼリヤ 岡山駅東口店"@ja ;
+ bp:郵便番号 "700-0023" ;
+ bp:住所 "岡山県岡山市北区駅前町1-1-21 成通・ハリービル2F" ;
+ bp:電話番号 "086-803-5535" ;
+ geo:lat "34.665962"^^xsd:double ;
+  geo:long "133.919785"^^xsd:double .
+
+<13>  rdfs:label "ロイヤルホスト 岡山学南店"@ja ;
+ bp:郵便番号 "700-0011" ;
+ bp:住所 "岡山県岡山市北区学南町1-6-6" ;
+ bp:電話番号 "086-255-1041" ;
+ geo:lat "34.679546"^^xsd:double ;
+  geo:long "133.922104"^^xsd:double .
+
+<14>  rdfs:label "COCO’S 大野辻店"@ja ;
+ bp:郵便番号 "700-0964" ;
+ bp:住所 "岡山県岡山市北区中仙道1-1-1" ;
+ bp:電話番号 "086-805-6751" ;
+ geo:lat "34.649117"^^xsd:double ;
+  geo:long "133.890625"^^xsd:double .
+
+<15>  rdfs:label "天満屋岡山店ファミリーレストラン"@ja ;
+ bp:郵便番号 "700-0822" ;
+ bp:住所 "岡山県岡山市北区表町2-1-1 天満屋岡山店7F" ;
+ bp:電話番号 "086-231-7705" ;
+ geo:lat "34.661469"^^xsd:double ;
+  geo:long "133.92894"^^xsd:double .
+
+<16>  rdfs:label "KIMURAYA BAKERY&SORA(キムラヤベーカリー&ソラ)"@ja ;
+ bp:郵便番号 "700-0964" ;
+ bp:住所 "岡山県岡山市北区中仙道2-9-17" ;
+ bp:電話番号 "086-245-5588" ;
+ geo:lat "34.645504"^^xsd:double ;
+  geo:long "133.886063"^^xsd:double .
+
+<17>  rdfs:label "岡山大元食堂"@ja ;
+ bp:郵便番号 "700-0971" ;
+ bp:住所 "岡山県岡山市北区野田1-9-105" ;
+ bp:電話番号 "086-244-0731" ;
+ geo:lat "34.650829"^^xsd:double ;
+  geo:long "133.905365"^^xsd:double .
+
+<18>  rdfs:label "IRON NATS(アイアンナッツ)"@ja ;
+ bp:郵便番号 "700-0977" ;
+ bp:住所 "岡山県岡山市北区問屋町24-102" ;
+ bp:電話番号 "086-242-3442" ;
+ geo:lat "34.643929"^^xsd:double ;
+  geo:long "133.887527"^^xsd:double .
+
+<19>  rdfs:label "レストラン&バイシクル"@ja ;
+ bp:郵便番号 "700-0973" ;
+ bp:住所 "岡山県岡山市北区下中野468-7" ;
+ bp:電話番号 "086-241-3783" ;
+ geo:lat "34.636223"^^xsd:double ;
+  geo:long "133.901947"^^xsd:double .
+
+<20>  rdfs:label "(集)STYLE 流儀"@ja ;
+ bp:郵便番号 "700-0977" ;
+ bp:住所 "岡山県岡山市北区問屋町11-106 BOOTH BLD 201" ;
+ bp:電話番号 "086-243-0880" ;
+ geo:lat "34.644821"^^xsd:double ;
+  geo:long "133.889786"^^xsd:double .
+
+<21>  rdfs:label "洋食 あんじゅ"@ja ;
+ bp:郵便番号 "701-1145" ;
+ bp:住所 "岡山県岡山市北区横井上93 欅の森ハイツ2 1F" ;
+ bp:電話番号 "086-252-7050" ;
+ geo:lat "34.711456"^^xsd:double ;
+  geo:long "133.912018"^^xsd:double .
+
+<22>  rdfs:label "喫茶&グリル はらだ"@ja ;
+ bp:郵便番号 "700-0971" ;
+ bp:住所 "岡山県岡山市北区野田3丁目2-16" ;
+ bp:電話番号 "086-241-0960" ;
+ geo:lat "34.65221"^^xsd:double ;
+  geo:long "133.901718"^^xsd:double .
+
+<23>  rdfs:label "カフェレストラン はちのす"@ja ;
+ bp:郵便番号 "700-0026" ;
+ bp:住所 "岡山県岡山市北区奉還町2-19-18" ;
+ bp:電話番号 "086-252-3951" ;
+ geo:lat "34.669937"^^xsd:double ;
+  geo:long "133.917297"^^xsd:double .
+
+<24>  rdfs:label "米の木(こめのなるき)"@ja ;
+ bp:郵便番号 "700-0905" ;
+ bp:住所 "岡山県岡山市北区春日町6-1" ;
+ bp:電話番号 "086-233-0934" ;
+ geo:lat "34.653606"^^xsd:double ;
+  geo:long "133.921509"^^xsd:double .
+
+<25>  rdfs:label "岡山表町食堂"@ja ;
+ bp:郵便番号 "700-0821" ;
+ bp:住所 "岡山県岡山市北区中山下2-2-4" ;
+ bp:電話番号 "086-898-1521" ;
+ geo:lat "34.661465"^^xsd:double ;
+  geo:long "133.927536"^^xsd:double .
+
+<26>  rdfs:label "THE STYLE(ザ スタイル) クレド岡山店"@ja ;
+ bp:郵便番号 "700-0821" ;
+ bp:住所 "岡山県岡山市北区中山下1-8-45 クレド岡山21F" ;
+ bp:電話番号 "086-234-7310" ;
+ geo:lat "34.663136"^^xsd:double ;
+  geo:long "133.926773"^^xsd:double .
+
+<27>  rdfs:label "岡山市民会館食堂"@ja ;
+ bp:郵便番号 "700-0823" ;
+ bp:住所 "岡山県岡山市北区丸の内2-1-1 岡山市民会館1F" ;
+ bp:電話番号 "086-223-2165" ;
+ geo:lat "34.664921"^^xsd:double ;
+  geo:long "133.93306"^^xsd:double .
+
+<28>  rdfs:label "五感和洋旬菜だいにんぐ"@ja ;
+ bp:郵便番号 "700-0821" ;
+ bp:住所 "岡山県岡山市北区中山下1-11-17" ;
+ bp:電話番号 "086-224-2000" ;
+ geo:lat "34.663109"^^xsd:double ;
+  geo:long "133.928375"^^xsd:double .
+
+<29>  rdfs:label "おかべ食事処"@ja ;
+ bp:郵便番号 "700-0822" ;
+ bp:住所 "岡山県岡山市北区表町1-10-1" ;
+ bp:電話番号 "086-222-1404" ;
+ geo:lat "34.663109"^^xsd:double ;
+  geo:long "133.929138"^^xsd:double .
+
+<30>  rdfs:label "はぎわら"@ja ;
+ bp:郵便番号 "700-0026" ;
+ bp:住所 "岡山県岡山市北区奉還町4-7-10" ;
+ bp:電話番号 "086-253-8837" ;
+ geo:lat "34.668861"^^xsd:double ;
+  geo:long "133.909958"^^xsd:double .
+
+<31>  rdfs:label "有限会社美津葉 本店"@ja ;
+ bp:郵便番号 "709-2133" ;
+ bp:住所 "岡山県岡山市北区御津金川980" ;
+ bp:電話番号 "086-724-0086" ;
+ geo:lat "34.796734"^^xsd:double ;
+  geo:long "133.927658"^^xsd:double .
+
+<32>  rdfs:label "有限会社美津葉 酒蔵店"@ja ;
+ bp:郵便番号 "709-2133" ;
+ bp:住所 "岡山県岡山市北区御津金川690-1" ;
+ bp:電話番号 "086-724-3280" ;
+ geo:lat "34.796734"^^xsd:double ;
+  geo:long "133.927658"^^xsd:double .
+
+<33>  rdfs:label "宮武和食の店"@ja ;
+ bp:郵便番号 "700-0901" ;
+ bp:住所 "岡山県岡山市北区本町5-12" ;
+ bp:電話番号 "086-231-0246" ;
+ geo:lat "34.664806"^^xsd:double ;
+  geo:long "133.920837"^^xsd:double .
+
+<34>  rdfs:label "夢や流通センター店"@ja ;
+ bp:郵便番号 "701-0165" ;
+ bp:住所 "岡山県岡山市北区大内田711-2" ;
+ bp:電話番号 "086-292-8757" ;
+ geo:lat "34.62521"^^xsd:double ;
+  geo:long "133.837265"^^xsd:double .
+
+<35>  rdfs:label "大正浪漫亭岡山店"@ja ;
+ bp:郵便番号 "700-0023" ;
+ bp:住所 "岡山県岡山市北区駅前町1-8-5" ;
+ bp:電話番号 "086-801-0822" ;
+ geo:lat "34.665974"^^xsd:double ;
+  geo:long "133.921387"^^xsd:double .
+
+<36>  rdfs:label "とんかつ新宿さぼてん"@ja ;
+ bp:郵便番号 "700-0024" ;
+ bp:住所 "岡山県岡山市北区駅元町1-1-1" ;
+ bp:電話番号 "086-221-7713" ;
+ geo:lat "34.665607"^^xsd:double ;
+  geo:long "133.918015"^^xsd:double .
+
+<37>  rdfs:label "BJロフト店"@ja ;
+ bp:郵便番号 "700-0833" ;
+ bp:住所 "岡山県岡山市北区天瀬9-12" ;
+ bp:電話番号 "086-232-7739" ;
+ geo:lat "34.654537"^^xsd:double ;
+  geo:long "133.929352"^^xsd:double .
+
+<38>  rdfs:label "小麦カェ"@ja ;
+ bp:郵便番号 "700-0932" ;
+ bp:住所 "岡山県岡山市北区奥田本町10-9" ;
+ bp:電話番号 "086-231-8181" ;
+ geo:lat "34.646862"^^xsd:double ;
+  geo:long "133.920654"^^xsd:double .
+
+<39>  rdfs:label "コンベックス岡山お食事処彩"@ja ;
+ bp:郵便番号 "701-0165" ;
+ bp:住所 "岡山県岡山市北区大内田675" ;
+ bp:電話番号 """
+086-292-3018""" ;
+ geo:lat "34.626789"^^xsd:double ;
+  geo:long "133.839691"^^xsd:double .
+
+<40>  rdfs:label "株式会社広東炒飯店"@ja ;
+ bp:郵便番号 "700-0952" ;
+ bp:住所 "岡山県岡山市北区平田173-104" ;
+ bp:電話番号 "086-239-0309" ;
+ geo:lat "34.632694"^^xsd:double ;
+  geo:long "133.884445"^^xsd:double .
+
+<41>  rdfs:label "スルポーゼ 津島店"@ja ;
+ bp:郵便番号 "700-0081" ;
+ bp:住所 "岡山県岡山市北区津島東1-4-1" ;
+ bp:電話番号 "086-256-5222" ;
+ geo:lat "34.687592"^^xsd:double ;
+  geo:long "133.927505"^^xsd:double .
+
+<42>  rdfs:label "旭川観光センター"@ja ;
+ bp:郵便番号 "709-3101" ;
+ bp:住所 "岡山県岡山市北区建部町鶴田760" ;
+ bp:電話番号 "086-722-1302" ;
+ geo:lat "34.911915"^^xsd:double ;
+  geo:long "133.872375"^^xsd:double .
+
+<43>  rdfs:label "ナイーブ(naive)"@ja ;
+ bp:郵便番号 "700-0901" ;
+ bp:住所 "岡山県岡山市北区本町8-15" ;
+ bp:電話番号 "086-227-9020" ;
+ geo:lat "34.664524"^^xsd:double ;
+  geo:long "133.922028"^^xsd:double .
+
+<44>  rdfs:label "ビストロヤマシタ"@ja ;
+ bp:郵便番号 "700-0822" ;
+ bp:住所 "岡山県岡山市北区表町3-15-8" ;
+ bp:電話番号 "086-233-2888" ;
+ geo:lat "34.65826"^^xsd:double ;
+  geo:long "133.926865"^^xsd:double .
+
+<45>  rdfs:label "グリリアータ"@ja ;
+ bp:郵便番号 "700-0903" ;
+ bp:住所 "岡山県岡山市北区幸町2-19" ;
+ bp:電話番号 "086-225-1500" ;
+ geo:lat "34.662483"^^xsd:double ;
+  geo:long "133.920639"^^xsd:double .
+
+<46>  rdfs:label "タイム天神店"@ja ;
+ bp:郵便番号 "700-0814" ;
+ bp:住所 "岡山県岡山市北区天神町1-16" ;
+ bp:電話番号 "086-222-3671" ;
+ geo:lat "34.666016"^^xsd:double ;
+  geo:long "133.928772"^^xsd:double .
+
+<47>  rdfs:label "ROOK"@ja ;
+ bp:郵便番号 "700-0826" ;
+ bp:住所 "岡山県岡山市北区磨屋町7-7" ;
+ bp:電話番号 "086-212-1855" ;
+ geo:lat "34.66349"^^xsd:double ;
+  geo:long "133.924744"^^xsd:double .
+
+<48>  rdfs:label "自家製麺 穂の香 イオンモール岡山店"@ja ;
+ bp:郵便番号 "700-0907" ;
+ bp:住所 "岡山県岡山市北区下石井1-2-1 イオンモール岡山 6F" ;
+ bp:電話番号 "086-235-0765" ;
+ geo:lat "34.662106"^^xsd:double ;
+  geo:long "133.91777"^^xsd:double .
+
+<49>  rdfs:label "やよい軒 岡山駅店"@ja ;
+ bp:郵便番号 "700-0024" ;
+ bp:住所 "岡山県岡山市北区駅元町1-1 サンフェスタ岡山1F" ;
+ bp:電話番号 "086-803-2877" ;
+ geo:lat "34.665607"^^xsd:double ;
+  geo:long "133.918015"^^xsd:double .
+
+<50>  rdfs:label "やよい軒 ラ・ムー大安寺店"@ja ;
+ bp:郵便番号 "700-0065" ;
+ bp:住所 "岡山県岡山市北区野殿東町1-55" ;
+ bp:電話番号 "086-251-6008" ;
+ geo:lat "34.658405"^^xsd:double ;
+  geo:long "133.883179"^^xsd:double .
+
+<51>  rdfs:label "ジョイフル 万成店"@ja ;
+ bp:郵便番号 "700-0071" ;
+ bp:住所 "岡山県岡山市北区谷万成2丁目101-1" ;
+ bp:電話番号 "086-214-0300" ;
+ geo:lat "34.678165"^^xsd:double ;
+  geo:long "133.897217"^^xsd:double .
